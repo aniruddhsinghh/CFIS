@@ -1,0 +1,5 @@
+opencv-python
+face-recognition
+mediapipe
+flask
+python-telegram-bot
